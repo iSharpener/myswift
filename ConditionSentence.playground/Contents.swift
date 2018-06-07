@@ -31,8 +31,6 @@ for i in 1...5{
 var someInt:[Int] = [10,20,30]
 //通过count来获取someInt的长度
 var num = someInt.count
-var i = 0
-//while i < num{
-//    print(someInt[i])
-//    i++
-//}
+
+
+
